@@ -85,5 +85,5 @@ administrative law
 - Unjustified enrichment, damages, comparative private law
 - Effects of EU law
 - Human rights law and public law on national private law
-- Disputeresolution
+- Dispute resolution
 - Independent legal advice
