@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Curriculum vitae
+layout: default
+title: Curriculum Vitae
 #permalink: /curriculum-vitae/
 ---
 
@@ -80,10 +80,10 @@ administrative law
 
 ## Fields of Specialization
 - Dutch patrimonial law
-- contract law
-- tort law
-- unjustified enrichment, damages, comparative private law
-- effects of EU law
-- human rights law and public law on national private law,
-- resolution of disputes
-- independent legal advice
+- Contract law
+- Tort law
+- Unjustified enrichment, damages, comparative private law
+- Effects of EU law
+- Human rights law and public law on national private law
+- Disputeresolution
+- Independent legal advice
