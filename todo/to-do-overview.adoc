@@ -1,0 +1,29 @@
+= To Do Overview
+
+- [x] Links toegevoegd in `publications.adoc` onder _Public Debate_
+
+- [x] Hiermee de aanvullingen in de hoofdtekst voor de website.
++
+--
+__Wed, Nov 6, 1:03 PM__
+Home page (hoofd /openings pagina) aanpassingen gedaan.
+--
+
+- [x] CV in NL toegevoegd aan web site.
+__Wed, Nov 6, 1:03 PM__
++
+--
+__Wed, Nov 6, 1:03 PM__
+
+En verder het nederlandstalige cv. Al met al wil ik, als we bij het cv de expertise handhaven – dat toch liever als een opsomming met komma’s houden (ook omdat daarin net wat andere info staat dan bij de expertise van de hoofdpagina).
+
+Het zou ook kunnen om die info uiteindelijk niet in het cv te zetten. Maar het uitgangspunt van het cv is dat het een zelfstandig leesbaar document is, en tegen die achtergrond is het wellicht juist goed om het te behouden
+--
++
+[sidebar]
+--
+Mijn gedachte was dat het cv als pdf als bijlage op de website zou komen, evenals de lijst van publicaties. Ik weet niet wat de reden ervoor is om dat anders te doen (ik heb er geen bezwaar tegen maar ben wel benieuwd). Ook als het cv en de publicatielijst niet als pdf-bijlage worden meegeleverd, heeft de gedachte “het is een eigenstandig stuk info” voor mij wel meerwaarde.
+--
+
+
+- [x] CV in UK opsomming met comma's aanpassen.
