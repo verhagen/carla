@@ -1,0 +1,7 @@
+Language: {{ page.language }}
+<h2 id="fields-of-specialization">[ {{ translations.fields-of-specialization[page.language] }} ] - Fields of Specialization</h2>
+<ul>
+    {%- for field in site.data.en.fields-of-specialization -%}
+    <li>{{ field }}</li>
+    {%- endfor -%}
+</ul>

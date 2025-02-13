@@ -1,0 +1,12 @@
+= Robots
+
+Add this inside html header
+----
+<meta name="robots" content="noindex, nofollow">
+----
+
+Or add `robots.txt` tothe hole site:
+----
+User-agent: *
+Disallow: /
+----

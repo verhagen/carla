@@ -2,7 +2,7 @@
 layout: default
 title: Curriculum Vitae
 language: en
-#permalink: /curriculum-vitae/
+permalink: /en/curriculum-vitae/
 ---
 
 Prof. dr. drs. Carla Heleen Sieburgh

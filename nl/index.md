@@ -5,6 +5,7 @@
 layout: default
 title: Advisering & arbitrage, brainstorming, consultatie
 language: nl
+permalink: /nl
 ---
 ## Introductie
 

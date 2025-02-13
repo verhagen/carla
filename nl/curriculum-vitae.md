@@ -2,7 +2,7 @@
 layout: default
 title: Curriculum vitae (samenvatting)
 language: nl
-#permalink: /curriculum-vitae/
+permalink: /nl/curriculum-vitae
 ---
 
 Prof. dr. drs. Carla Heleen Sieburgh
@@ -32,7 +32,7 @@ Hoogleraar Burgerlijk Recht
 
 ## Verdere informatie
 
-- Houder van gastleerstoelen aan de Katholieke Universiteit Leuven, België (2000), the
+- Houder van gastleerstoelen aan de Katholieke Universiteit Leuven (België), (2000), the
 University of California in Berkeley (VS) (2003) en the European University Institute,
 Firenze (Italië) (2013)
 - Gedelegeerde van de Hoge Raad der Nederlanden bij la Conférence des chefs des cours

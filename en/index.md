@@ -5,6 +5,7 @@
 layout: default
 title: Advice & Arbitration, Brainstorming, Consultation
 language: en
+permalink: /en/
 ---
 ## Introduction
 
@@ -20,5 +21,17 @@ doctrines. As a former Justice in the Dutch Supreme Court (private law division)
 and as a former State Councillor in the Dutch Council of State (administrative
 jurisdiction division) she has extensive experience in dispute resolution and
 independent legal advice.
+
+# Fields of Specialization
+- Patrimonial law
+- Contract law
+- Tort law
+- State liability
+- Unjustified enrichment
+- Damages
+- EU law
+- Human rights law
+- Dispute resolution
+- Independent legal advice
 
 {% include fields-of-specialization.html %}

@@ -2,6 +2,7 @@
 layout: default
 title: Publications
 language: en
+permalink: /en
 ---
 
 ## Scientific Publications

@@ -1,11 +1,56 @@
 = To Do Overview
 
+- [ ] Iets van lettertype Arial vinden, voor de headings
+- [ ] Correcties van Carla 2024.11.15 verwerken
+** Bookchapters zijn toch twee woorden:Google serch geeft meteen aan: Bedoel je _Book Chapters_ ?
+** In Publications, ook de title _Scientific Publications_ weg halen?
+** In CV NL onder _Verdere informatie_: __Leuven,(België)__, 
+- [ ] Toevoegen bedrijfsnaam, over alle pagina's, inclusief in het klein eronder, inclusief switchen NL-EN
+- [ ] Toevoegen navigatie tussen pagina's home/cv/publications
+- [ ] Toevoegen KVK nummer
+- [ ] Uitzoeken waar url voorkeur `sieburgh.eu` (ipv `sieburgh-abc.nl`)
+- [ ] Account aanmaken voor mail / url hosting
++
+--
+[%header,cols="2,1,1,2,4"]
+|===
+| Product | Mail | URL | Plan | Price
+| Google Workspace | ✅ | ✅ | Business Starter | $6 USD
+per user/month, 1-year commitment
+| | | | Business Standard | $12 USD
+per user/month, 1-year commitment
+| | | | Business Plus | $18 USD
+per user/month, 1-year commitment
+| MicroSoft 365 | ✅ | ✅ |  Business Basic | $12.50 per user per month with an annual commitment
+| | | | Business Premium | $22.00 per user per month with an annual commitment
+|===
+
+.MicroSoft
+[sidebar]
+====
+To configure DNS settings for your domain, including email and web hosting, you need a Microsoft 365 Business subscription. The minimal plan that includes domain management and DNS configuration is Microsoft 365 Business Basic. This plan offers essential services such as:
+
+- *Email Hosting*: Professional email through Exchange Online.
+- *Web Hosting*: Integration with SharePoint for internal websites.
+- *DNS Management*: Ability to add and manage custom domains.
+With Microsoft 365 Business Basic, you can add your own domain, configure DNS records, and utilize services like Outlook for email and Teams for collaboration. 
+MICROSOFT LEARN
+
+For more advanced features, such as desktop versions of Office apps and additional security measures, consider higher-tier plans like Microsoft 365 Business Standard or Microsoft 365 Business Premium.
+====
+
+** [ ] One account / two accounts
+** [ ] Wil je zelf admin zijn over je account?
+** [ ] Credit Card Details nodig bij aanmaken / inrichten van Google / Microsoft omgeving
+--
+
 - [x] Links toegevoegd in `publications.adoc` onder _Public Debate_
 
-- [x] Hiermee de aanvullingen in de hoofdtekst voor de website.
+- [x] Aanvullingen in de hoofdtekst voor de website.
 +
 --
 __Wed, Nov 6, 1:03 PM__
+
 Home page (hoofd /openings pagina) aanpassingen gedaan.
 --
 

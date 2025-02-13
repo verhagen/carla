@@ -1,11 +1,12 @@
+{% assign translations = site.data.translations %}
 <header class="site-header" role="banner">
-
+    
     <div class="wrapper">
       {%- assign default_paths = site.pages | map: "path" -%}
       {%- assign page_paths = site.header_pages | default: default_paths -%}
       <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
       <p class="site-subtitle">{{ site.sub-title | escape }}</p>
-  
+  Page paths: {{ page_paths }}
       {%- if page_paths -%}
         <nav class="site-nav">
           <input type="checkbox" id="nav-trigger" class="nav-trigger" />
